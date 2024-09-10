@@ -22,7 +22,6 @@ Você pode instalá-los utilizando o `pip`:
 ```bash
 pip install yt_dlp customtkinter
 ```
-
 ## Uso
 
 1. Clone o repositório para sua máquina local.
