@@ -20,7 +20,7 @@ Certifique-se de ter os seguintes pacotes instalados antes de executar o program
 Você pode instalá-los utilizando o `pip`:
 
 ```bash
-pip install yt_dlp customtkinter
+pip install yt_dlp customtkinter tkinter 
 ```
 ## Uso
 
