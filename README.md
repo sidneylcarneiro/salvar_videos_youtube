@@ -16,6 +16,7 @@ Certifique-se de ter os seguintes pacotes instalados antes de executar o program
 
 - `yt_dlp`
 - `customtkinter`
+- `tkinter`
 
 Você pode instalá-los utilizando o `pip`:
 
